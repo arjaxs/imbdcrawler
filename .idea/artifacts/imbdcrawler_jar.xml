@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="imbdcrawler:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/imbdcrawler_jar</output-path>
+    <root id="archive" name="imbdcrawler.jar">
+      <element id="module-output" name="imbdcrawler" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jsoup-1.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jackson-core-asl-1.8.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jackson-mapper-asl-1.8.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
